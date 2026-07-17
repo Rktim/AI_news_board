@@ -58,7 +58,7 @@ Want more news? Less papers? Open `news.sh` in any text editor and change these 
 ## 📸 What it Looks Like
 
 ================================================================================
-                      🚀 A.I. & TECH BRIEFING DASHBOARD 🚀                      
+                      🚀 A.I. & TECH NEWS DASHBOARD 🚀                      
 ================================================================================
 
 ⚡ Checking AI Services...
