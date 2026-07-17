@@ -70,16 +70,22 @@ Want more news? Less papers? Open `news.sh` in any text editor and change these 
 🔥 TOP 5 RECENT HACKER NEWS STORIES (Jul 17, 2026 at 08:30 AM)
 
 📌 Title:  Show HN: I built a local AI briefing tool in Bash
+
 🕒 Posted: Jul 17, 2026 at 07:15 AM
+
 🔗 Link:   https://github.com/yourusername/repo (124 points)
+
 🤖 Summary: A developer has created a sleek terminal script that uses Ollama to summarize Hacker News and arXiv papers entirely locally.
 
 --------------------------------------------------------------------------------
 🎓 TOP 5 RECENT AI PAPERS FROM ARXIV (Jul 17, 2026 at 08:30 AM)
 
 📄 Paper:  Attention Is All You Need (Revisited)
+
 🕒 Updated: 2026-07-16 at 18:00:00
+
 🔗 Link:   https://www.alphaxiv.org/abs/xxxx.xxxxx
+
   - Researchers propose a new optimization for transformer architectures.
   - The model reduces computational overhead by 40% while maintaining accuracy.
 
@@ -93,4 +99,3 @@ Found a bug? Have an idea for a cool new feature? Feel free to open an issue or 
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE). 
-EOF
